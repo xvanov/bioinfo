@@ -1,0 +1,14 @@
+qs
+1 when was DNA structure found, by whom, what is the famous phrase?
+2 what are nucleotides?
+3 where does replication begin? what performs replication?
+4 how does gene therapy work?
+5 how is replication in bacteria mediated?
+6 count number of substring in a string
+7 frequent words problem
+
+as
+1 1953, James Watson ^ Francis Crick, "It has not escaped our notice that the specific pairing we have postulated immediately suggests a possibl e copying mechanism for the genetic material.
+2
+
+
