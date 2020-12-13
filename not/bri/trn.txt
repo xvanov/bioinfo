@@ -1,0 +1,47 @@
+
+qs
+
+m1
+q1 what is life?
+1 why was Darwin's study of finches not so convincing
+
+q2 dna fingerprints
+2 when and how are fingerprints formed
+3 how are fingerprints identified as matches, how many different fingerprint configs are there?
+4 derive formula fro combination and permutation
+5 how many possible genomes in total for humans
+6 how many genetic sites (provided they contain random nucleotides(need to be checked to uniquely identify a human)
+7 how does chi-squared test work
+8 what accounts for most differences between individuals
+
+q3 how big is the genome?
+9
+
+
+as
+m1
+q1
+1
+not all organisms share features, but at smaller scale all life is the same: DNA
+
+q2
+2 
+pseudo-random function of movements of fetus creating ridges and valleys on fingers
+3 
+fingerprint is divided into 400 non-overlapping sites,rare features (crossovers, spurs, bifurcations) are identified and assigned a direction (4 dirs) if 10 matchh, the fingerprint is a match.
+(# of possible groups of 10 sites)*(# of posible direction configurations for those 10 sites)
+(400C10)*4^10
+4
+choose a 3 digit number with digits 0-9 (how many possible numbers) = permuatation
+now consider that xyz = zyx = yxz ... how many possible numbers? = combination
+5
+3 billion nucleotides across 23 chromosomes (4^3billion) = number with over 1 billion digits
+6
+ceil(log4(7 billion)) = 17
+7
+hypothesis testing for relation between categorical variables;
+we have categories on x and y axes and gatehr data; we make epxected distibution p(x and y) = p(x)*p(y) and find chi2 = sum(real-expected)^2/expected
+caclaualte the degree of freedom (r-1)*(c-1) gives chi2 for that df distribution
+gives us the p-value (right tail probability that is N0=independent variables is true)
+8 
+SNP = single nucleotide polymorphisms (differences); on average 1 SNP/1000 base-pairs 0.1% difference, also differnet 3-mers can code to same protein so highly ressitant to snps.
