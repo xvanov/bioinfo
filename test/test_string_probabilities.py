@@ -7,6 +7,11 @@ parentdir = os.path.dirname(currentdir)
 sys.path.insert(0,parentdir)
 from src.string_probabilities import *
 
+def test_freq_of_nucleotides():
+    string = ''
+    frequency_of_nucleotides(string)
+
+
 def test_get_random_string():
     length = 100
     alphabet = '01'

@@ -66,6 +66,21 @@ def frequent_words(text, k):
     return frequentPatterns, maxCount
 
 
+def frequency_of_nucleotides(string):
+    if string == '':
+        return None
+    else:
+        length = [0,0,0,0]
+        ll = len(string)
+        length[0] = string.count('T')/ll
+        length[1] = string.count('A')/ll
+        length[2] = string.count('G')/ll
+        length[3] = string.count('C')/ll
+        return length;
+
+
+
+
 if __name__ == '__main__':
     N = 100
     A = '01'
