@@ -6,7 +6,7 @@ import string
 currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
 parentdir = os.path.dirname(currentdir)
 sys.path.insert(0,parentdir)
-from src.dicts import *
+from src.utils.dicts import *
 
 def get_random_string(length, alphabet):
     """get_random_string returns random string of length using any character passed into alphabet
