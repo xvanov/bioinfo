@@ -1,0 +1,22 @@
+#### Qs ####
+1 why was Darwin's study of finches not so convincing
+2 when and how are fingerprints formed
+3 how are fingerprints identified as matches
+4 derive formula fro combination and permutation
+5 how many possible genomes in total for humans
+6 how many genetic sites (provided they contain random nucleotides(need to be checked to uniquely identify a human)
+7 how does chi-squared test work
+
+### As ####
+1
+not all organisms share features
+
+2
+
+3
+
+#### Ms ####
+
+
+
+#### TODO ####

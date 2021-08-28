@@ -1,0 +1,35 @@
+q
+i what is life
+1 Ernest Rutherford on science
+2 why might darwin's theories based on his studies of finches not been particularly convincing to his contemporaries?
+3 what is now known about lifr at the small scale (micro - nano)?
+4 what can explain all the diversity of life today?
+5 what are the problems of biology today?
+ii dna fingerprints
+6 how many possible fingerprints are there if there are 400 non-overlapping sites, 10 matching feature sites (including islands, crossovers, spurs, bifurcations), 4 orientations (up, down, left, right)?
+7 how many locus sites needed to unqiuely identify every human
+8 what is a snp (snip)
+9 what percent of genome in humans is different between them
+10 are snps fatal?
+11 what is polydactyly in cats caused by, how many fingers 
+12 how to connect ethnic groups based on dna 
+
+a
+i what is life
+1 all science is either physics or stamp collecting. that which is not measurable is not science.
+2 not all organisms share similar features that can be compared
+3 all life is the same - based on DNA, all life must share a common ancestor
+4 genetic information changes over time, getting selecte based on competition and the environment
+5 processing and interpreting large quantities of generitc information
+  compiling exisiting body of anatomical, cellular and structural biology data
+  correlating traditonal biological data with genetic information
+ii dna fingerprints
+6 number of possible special sites = 400 C 10 
+  number of possible orientations = 4^10
+  (400 C 10)* 4^10
+7 log(8 billion)/log(4) = 17
+8 single nucleotide polymorphism 
+9 0.1%
+10 it depends, often swquences with just snp can code to the same protein
+11 snp, cats have 18, but with polydactyly 22
+12 pca
