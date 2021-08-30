@@ -1,8 +1,8 @@
 q
 i what is life
 1 Ernest Rutherford on science
-2 why might darwin's theories based on his studies of finches not been particularly convincing to his contemporaries?
-3 what is now known about lifr at the small scale (micro - nano)?
+2 why might Darwin's theories based on his studies of finches not been particularly convincing to his contemporaries?
+3 what is now known about life at the small scale (micro - nano)?
 4 what can explain all the diversity of life today?
 5 what are the problems of biology today?
 ii dna fingerprints
@@ -13,16 +13,32 @@ ii dna fingerprints
 10 are snps fatal?
 11 what is polydactyly in cats caused by, how many fingers 
 12 how to connect ethnic groups based on dna 
+how big is a genome?
+13 how to go about estimating the size of the genome?
+14 what form of dna is expected to be most common based on 2nd law of thermodynamics (single stranded vs double stranded)?
+15 what happens to energy as dna forms double helix?
+16 how to create a toy model of dna to be able to know number of nucleotides?
+17 make model a bit more precise?
+18 how to estimate blast radius on picture?
+iv protein origami
+19 how did early scientists of DNA think that proteins were held together?
+20 How did Chrisitian Afinsen study protein folding? 
+21 How many possible arrangements of four disulfide bridges are possible?
+22 What did Afinsen observe regarding the possible arrangements of disulfide bridges?
+23 what can a protein do if it is unfolded?
+24 what happens if you unfold a protein (heat and alcohol), let it cool and then it refolds?
+25 what happens when putting a randomly folded protein in environment like cell (slightly saline water) 
+
 
 a
 i what is life
-1 all science is either physics or stamp collecting. that which is not measurable is not science.
+1 all science is either physics or stamp collecting. That which is not measurable is not science.
 2 not all organisms share similar features that can be compared
 3 all life is the same - based on DNA, all life must share a common ancestor
-4 genetic information changes over time, getting selecte based on competition and the environment
-5 processing and interpreting large quantities of generitc information
-  compiling exisiting body of anatomical, cellular and structural biology data
-  correlating traditonal biological data with genetic information
+4 genetic information changes over time, getting select based on competition and the environment
+5 processing and interpreting large quantities of generic information
+  compiling existing body of anatomical, cellular and structural biology data
+  correlating traditional biological data with genetic information
 ii dna fingerprints
 6 number of possible special sites = 400 C 10 
   number of possible orientations = 4^10
@@ -30,6 +46,21 @@ ii dna fingerprints
 7 log(8 billion)/log(4) = 17
 8 single nucleotide polymorphism 
 9 0.1%
-10 it depends, often swquences with just snp can code to the same protein
+10 it depends, often sequences with just snp can code to the same protein
 11 snp, cats have 18, but with polydactyly 22
 12 pca
+how big is a genome?
+13 looking through electron microscope, if cells or viruses prepared incorrectly they would explode, leaving blast radius
+14 single stranded, because of the 2nd law of thermodynamics
+15 energy is released - reaches lower energy state
+16 model as random walk of straight segments, mean squared displacement = nb^2 (n=number of links, b = length of links = const)
+17 radius of gyration = Nlb/6 , N = number of nucleotides, l = length of one nucleotide, b = number of link
+18 measure from center to end, don't take into account extra stuff not connected to the center. 
+19 disulfide bridges
+20 He used an enzyme with 8 Cystine amino acids. He knew that it was correctly folded when the protein was in the right arrangement. 
+21 7*5*3 = 105
+22 99% went into the native fold even though many more were possible
+23 nothing, stops functioning
+24 folds in random configurations
+25 the protein folds into its correct fold - the environment and other forces play a large role
+
