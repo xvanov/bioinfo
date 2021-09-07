@@ -1,0 +1,20 @@
+q
+1 can a fully functional cell live without a genome?
+2 what is a cell?
+3 why are viruses not alive?
+4 when a biologist takes away the genome from a cell, leaving behind all the machinery and replace it with differen genome what happens?
+5 what is recombinant dna?
+6 what are approaches to finding gene functions?
+7 given N genes how many possible knock-out configurations are there
+8 given a circular arrangement of genes what is the fraction of viable arrangements are there
+
+
+a
+1 no, the genome animates cells
+2 a unit capable of self-replication given crucial dependence of energy and materials from the environment (in organic life - needs supply of nutrients, water, amino acids)
+3 they cannot self-replicate
+4 completely transformed cell - new organism
+5 moving some dna from one organism to another (ex. GFP - green flourescent prtein genes)
+6 single nuleotide polymorphisms, knock-out
+7 2^N
+8 N/(N!)
