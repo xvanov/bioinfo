@@ -1,4 +1,5 @@
 q
+i information and order
 1 can a fully functional cell live without a genome?
 2 what is a cell?
 3 why are viruses not alive?
@@ -7,9 +8,20 @@ q
 6 what are approaches to finding gene functions?
 7 given N genes how many possible knock-out configurations are there
 8 given a circular arrangement of genes what is the fraction of viable arrangements are there
-
+ii dogmatic structures
+9 what are the macromolecules of all cells and their functions
+10 how can cells make sucha  diversity of strucutures
+11 what is the central dogma
+12 what is phenotype
+13 do the genes governing the central dogma have a high or low rate of mutation
+14 how long does mRNA exist for and why
+15 what other functions does RNA have
+16 what are proteins made up of and how do they form. 
+17 what is the sequence space of a protein with N amino acids, how are the possible sequences distributed in the space
+18 after correct sequence is found it needs to fold in the correct way, how many possible fold configurations are there?
 
 a
+i information and order
 1 no, the genome animates cells
 2 a unit capable of self-replication given crucial dependence of energy and materials from the environment (in organic life - needs supply of nutrients, water, amino acids)
 3 they cannot self-replicate
@@ -18,3 +30,19 @@ a
 6 single nuleotide polymorphisms, knock-out
 7 2^N
 8 N/(N!)
+ii dogmatic structures
+9 nucleic acids: DNA and RNA information for construction of all macromolecules and themselves
+proteins: many roles - catalysts, transport, struture
+lipids: barriers/membranes to compartamentalize organelles
+carbohydrates: energy storage, building blocks for rigid structures (e.g. cell wall)
+10 by combining few simple building blocks into many combinations, repeating same chemical reactions man times, breaking down commonly available inanimate molecules
+11 dna -> rna -> protein -> phenotype
+proteins perform small number of chemical reactions required for assembly of ianimate building blocks from environement itnto DNA, RNA, proteins and other bioogical structures. 
+12 what raw materials are consumed,, how energy is produced, how reproduction occurs
+13 low
+14 mRNA exisits for 5 minutes, very short in order to provide spatial and temporal control of protein production
+15 RNA can form double stranded helix with itself, many RNA are not translated, they serve structural, catalytic functions.
+16 amino acids, linear chain of ~100 amino acids (1 gene) which fold into secondary structures - alpha helixes, beta sheets; then these fold inot native fold
+17 20^N,N = number of amino acids, non-uniform cluster distribution in small subset of space
+18 each amino acid has 3 angles, and each angle 3 orientations, 3^(3*N), N = number of amino acids
+
