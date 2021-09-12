@@ -19,6 +19,17 @@ ii dogmatic structures
 16 what are proteins made up of and how do they form. 
 17 what is the sequence space of a protein with N amino acids, how are the possible sequences distributed in the space
 18 after correct sequence is found it needs to fold in the correct way, how many possible fold configurations are there?
+iii dna composition
+19 what is dna
+20 who discovered the composition of dna and what was the proposed model?
+21 who discovered the relative frequencies of nucleotides in dna?
+iv programming gene expression
+22 what is the difference butween Thymine and Uracil?
+23 what is the directionaliyt of nucleotides?
+24 how does RNA form from DNA
+25 what is the relation between dna CODING sequence and rna sequence
+26 where does transcription start (which strand)
+27 what is the coding strand, promotong strand
 
 a
 i information and order
@@ -45,4 +56,14 @@ proteins perform small number of chemical reactions required for assembly of ian
 16 amino acids, linear chain of ~100 amino acids (1 gene) which fold into secondary structures - alpha helixes, beta sheets; then these fold inot native fold
 17 20^N,N = number of amino acids, non-uniform cluster distribution in small subset of space
 18 each amino acid has 3 angles, and each angle 3 orientations, 3^(3*N), N = number of amino acids
-
+iii dna composition
+19 deoxyribose sugar, phosphate, nitrogenous base
+20 phoebus levene, tetra-nucleotide hypothesis: the 4 bases stacked one on another
+21 erwin chargaff, extract dna from one species and from many - paper chromatography
+iv programming gene expression
+22 single carbon atom
+23 5' and 3', the sense (direction) is from 5' to 3', in DNA the starnds are complimentary and run in opposite directions
+24 rna polymerase
+25 exact copy (except T to U)
+26 the strand with the TATAAA box
+27 coding strand has TATA box
