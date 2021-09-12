@@ -30,6 +30,14 @@ iv programming gene expression
 25 what is the relation between dna CODING sequence and rna sequence
 26 where does transcription start (which strand)
 27 what is the coding strand, promotong strand
+v universal translator
+28 how to use rna information to turn into amino acid chain
+29 what is an insertion mutation? how does it compare SNP?
+30 how does translation occur?
+31 how is translation fasciliated?
+32 what are the conditions for mRNA to become protein
+33 what other structures can mRNA form
+34 which part of central dogma likely was the first to come alive
 
 a
 i information and order
@@ -67,3 +75,12 @@ iv programming gene expression
 25 exact copy (except T to U)
 26 the strand with the TATAAA box
 27 coding strand has TATA box
+v universal translator
+28 3 nucleotides = codons, 4^3 = 64 more than enough to code for 20 aa
+29 insertion mutation is insertin a single nucleotide into DNA sequence, shifting it by one position, it cause much more change than a SNP
+30 ribosome facilitates reaction, tRNAs act as dictionary
+31 UAG codes for Methionine, but also for start, UAG, UAA, UGA code for end.
+32 must begin for start codon, AUG, have end codon (UAG, UAA, UGA) and 3N nucleotides between the two, its called open reading frame (ORF)
+33 fold up and become part of ribosome
+34 rna
+
