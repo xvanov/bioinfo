@@ -38,6 +38,9 @@ v universal translator
 32 what are the conditions for mRNA to become protein
 33 what other structures can mRNA form
 34 which part of central dogma likely was the first to come alive
+vi evolution
+35 what is the fitness landscape?
+
 
 a
 i information and order
@@ -83,4 +86,5 @@ v universal translator
 32 must begin for start codon, AUG, have end codon (UAG, UAA, UGA) and 3N nucleotides between the two, its called open reading frame (ORF)
 33 fold up and become part of ribosome
 34 rna
-
+vi
+35 fitness of organisms based on their genomes. species can get stuck in local maxima if in a certain environment intermediary valleys are to harsh.
