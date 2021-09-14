@@ -1,0 +1,21 @@
+q
+i reading our blueprints
+1 is person's likelihood to get lung cancer affected by genetics?
+  is a persons's likelihood to smoke affected by genetics?
+2 what are the forces affecting dna
+3 how to sequence dna
+4 specifically what technique is used to sequence dna
+5 what is probability of finding a sub-sequence of lenght l and dopant of p percent.
+6 how does NGS work?
+7 Given human genome has 3*10^9 nucleotides and NGS splits into 500 length fragments how many fragements need to be sequenced. 
+
+a
+i reading our blueprints
+1 yes, yes!
+2 chemical bonds, thermal collisions, electrical
+3 PCR: heat (separate strands of dna), cool (let polymerase create copies of DNA), repeat
+4 Sanger (ladder) sequencing: dope DNA with dopand that will end polymerase reaction creating different length chains. (dope with ddA, ddT, ddC, ddG) - dideoxy-nucleotides. use eleectrophoresis to separate the molecules out in a electric field. 
+5 (1-p)^(l-1)*p
+6 split up genome into smaller sections, apply ladder PCR to each of them
+7 3*10^9/500 = 5*10^6 fragements, need to 10-50x oversample to ensure all are present
+
