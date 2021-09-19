@@ -8,6 +8,22 @@ i reading our blueprints
 5 what is probability of finding a sub-sequence of lenght l and dopant of p percent.
 6 how does NGS work?
 7 Given human genome has 3*10^9 nucleotides and NGS splits into 500 length fragments how many fragements need to be sequenced. 
+ii dna forensics
+8 how do bacteria defend against viral attack 
+9 how often does the sequency GAATTC occur, what is its significance
+10 assuming 3*10^9 nucletoides in human genome and 0.1% match for using PCR with EcoRi samples. how long does sequence need to be to match 2 people
+11 what is a restriction map, what is a problem in its construction
+12 for a sequence with N restriction sites how many different length fragments can form
+13 what is a locus
+14 how to identify two pwople pased on restriction sites
+15 how many locus lengths need to be measured to have less than one in a billion cahnce of spurioous match (given people having same locus length have 11% chance of match)?
+16 what is a microsatellite
+17 how is modern dna profiling done?
+18 how does the fbi do profiling?
+19 what is probability of two people having the same dna profile based on CODIS, given poplulation frequncey matches 8% per loci for given ethnic group?
+20 how many pairs of people in US are expected to have the same CODIS profile
+21 what relationship between relatives can be deduced from codis (familial match), assuming partial match is 1/10000.
+ 
 
 a
 i reading our blueprints
@@ -18,4 +34,18 @@ i reading our blueprints
 5 (1-p)^(l-1)*p
 6 split up genome into smaller sections, apply ladder PCR to each of them
 7 3*10^9/500 = 5*10^6 fragements, need to 10-50x oversample to ensure all are present
-
+ii dna forensics
+8 restriction enzymes that cut dna at short palindromic sequences
+9 cut by EcoRi restriction enzyme. 1/4^6 = 1/4096
+10 (1-0.1/100)^(6*x/4000) = small number, x = number of nucleotides, exponent = number of restriction sights * 6 nucleotides in sequence
+11 locations of restrictions sights in genome based on restriction map, enzymes don't cut always at every restriction site
+12 N choose 2
+13 locus is a fragment of dna made from cutting it on restriction sites. 
+14 if a SNP occurs at a restriction site fragement lengths will add
+15 0.11^x = 1/(10^9)
+16 manys short tandem repeats cosisting of 2 to 4 nucletides (these regions have an unknown function)
+17 use technique of loci with PCR to zero in on microsatellite regions where mutations are more liely
+18 Combined DNA Index System (CODIS): measure length of 13 microstellite loci (each appears witha  population frequencey of 8% in a given ethnic group)
+19 .08^13
+20 (300 million + 1)*(300 million)/2
+21 (1-x)^13 = 1/10000 x = 50% (siblings, parent, child)
