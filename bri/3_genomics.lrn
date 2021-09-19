@@ -47,5 +47,5 @@ ii dna forensics
 17 use technique of loci with PCR to zero in on microsatellite regions where mutations are more liely
 18 Combined DNA Index System (CODIS): measure length of 13 microstellite loci (each appears witha  population frequencey of 8% in a given ethnic group)
 19 .08^13
-20 (300 million + 1)*(300 million)/2
+20 (300 million + 1)*(300 million)/2 * 0.08^13
 21 (1-x)^13 = 1/10000 x = 50% (siblings, parent, child)
