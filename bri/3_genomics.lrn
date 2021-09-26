@@ -23,7 +23,17 @@ ii dna forensics
 19 what is probability of two people having the same dna profile based on CODIS, given poplulation frequncey matches 8% per loci for given ethnic group?
 20 how many pairs of people in US are expected to have the same CODIS profile
 21 what relationship between relatives can be deduced from codis (familial match), assuming partial match is 1/10000.
- 
+iii genotyping
+1 what is fixation?
+2 what are the types of SNPs?
+3 what is genetic drift?
+4 given N=900000 nucleotide genome, over G=800000 generations and m = 35 synonymous mutations what is the rate of mutation mu?
+5 when did Homo sapiens evolve? how many generations ago?
+6 what is reference genotyping?
+7 how do bio chips work?
+8 how are ships designed to avoid false positives?
+9 what is monogenic and polygenic?
+10 where do SNPs occur in the dna? 
 
 a
 i reading our blueprints
@@ -49,3 +59,15 @@ ii dna forensics
 19 .08^13
 20 (300 million + 1)*(300 million)/2 * 0.08^13
 21 (1-x)^13 = 1/10000 x = 50% (siblings, parent, child)
+iii genotyping
+1 when an adaptive SNP becomes common throughout a population. 
+2 adaptive, deleterious, synonymous (don't have bad or good effect but are the same as the non-SNP version)
+3 when sysnonymous SNPs become fixed in a population
+4 mu = m/(NG) = 10^-10
+5 5 MyA, 250k generations ago
+6 comparison between genotype to a reference genome
+7 chips are patterend with millions of refernce and alternate SNPs. ater PCR amplification and fragemntation a genome is added to the cip. obly complimentary dna strands hybridize and a staining dye applied to the DNA allows a binary readout. 
+8 pattern rare alternate DNAs many times in different regions of chip
+9 monogenic = single variant in genotype responsible for phenotype, polygenic = many variants in genotype responsible for phenotype
+10 genes, beteween genes, non-coding, unknown
+
