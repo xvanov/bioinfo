@@ -34,6 +34,8 @@ iii genotyping
 8 how are ships designed to avoid false positives?
 9 what is monogenic and polygenic?
 10 where do SNPs occur in the dna? 
+iv ancestry
+1 how to tie genetic variation in populations with geography?
 
 a
 i reading our blueprints
@@ -70,4 +72,5 @@ iii genotyping
 8 pattern rare alternate DNAs many times in different regions of chip
 9 monogenic = single variant in genotype responsible for phenotype, polygenic = many variants in genotype responsible for phenotype
 10 genes, beteween genes, non-coding, unknown
-
+iv ancestry
+1 PCA analysis to plot 2D eigenvectors and overlay over map
