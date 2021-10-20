@@ -1,10 +1,28 @@
 q
 i how to fold a molecule
-1
-
-
+1 what is biological self-assembly?
+2 how are creases formed in arrangement of amino acids or nucleotides?
+3 what is the relationship between native state and number of bonds?
+4 why can we not simulate the interactions completely?
+5 how is the helix in dna bound?
+6 how is alpha helices and beta sheets bound?
+7 what is protein melting temperature? what does it indicate?
+8 how to estimate the meltinf temperature of a dna helix
+9 how to estimate the melting temperature of rna and protens
+10 what is the difference in bending properties between rna and amino acids?
+11 which RNA haripin is most stable (large loop, small loop)?
 
 
 a
 i how to fold a molecule
-1
+1 when rna and proteins fold into native folds
+2 by a combination of chemical forces, bonding and molecular crowding (reaching mnimum energy)
+3 more bonds form as configuration apporaches lowest energy state
+4 to simulate every vibrational and rotational degree of freedom is to much computational power
+5 5hydrogen bonds
+6 hydrogen bonds
+7 temperature at which hydrogen bonds are broken, the stablility of a fold
+8 if it is short: number of base pairs is sufficient: T= 4(nG + nC) + 2(nA + nT)
+9 in addition to number of base pairs length and types of amino acids in unbounded regions
+10 some amino acids can form rigid kinks (Proline), others are very flexible (Glycine); on the other hand, nucleotides in RNA are very similar and rigid
+11 large loop
