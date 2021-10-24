@@ -11,7 +11,12 @@ i how to fold a molecule
 9 how to estimate the melting temperature of rna and protens
 10 what is the difference in bending properties between rna and amino acids?
 11 which RNA haripin is most stable (large loop, small loop)?
-
+ii finding palindromes
+1 how to identify loop and stem regions based on a tape of RNA?
+2 how to visualize loop and stems?
+3 how to tRNAs and ribozymes function?
+4 what is the RNA world hypothesis?
+5 what is a pseudoknot? how do they appear in diagrams?
 
 a
 i how to fold a molecule
@@ -26,3 +31,10 @@ i how to fold a molecule
 9 in addition to number of base pairs length and types of amino acids in unbounded regions
 10 some amino acids can form rigid kinks (Proline), others are very flexible (Glycine); on the other hand, nucleotides in RNA are very similar and rigid
 11 large loop
+ii finding palindromes
+1 find palindromes in sequence, the greatest number of bonds is a simplified way to determine the correct number of palindromes
+2 arc/rainbow diagram or airport diagram
+3 they are folded RNA in sucha a way that non-bound nucleotides remain on outside surface
+4 the first forms of life had only RNA as a biomolecule to store infromation and catalyze reactions
+5 overlapping base paired regions that are constrained and difficult to untangle (stable and well suited for viral and bacterial RNA that need to persist in unfriendly environments).
+
