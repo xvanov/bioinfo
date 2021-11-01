@@ -18,7 +18,11 @@ ii finding palindromes
 4 what is the RNA world hypothesis?
 5 what is a pseudoknot? how do they appear in diagrams?
 iii rna folding
-1
+1 how many pssible arrangements of folds for N nucleotides?
+2 define nested loops
+3 what is the condition for applying recursion to a problem?
+4 what is the problem of counting all base pairs?
+
 
 a
 i how to fold a molecule
@@ -39,4 +43,20 @@ ii finding palindromes
 3 they are folded RNA in sucha a way that non-bound nucleotides remain on outside surface
 4 the first forms of life had only RNA as a biomolecule to store infromation and catalyze reactions
 5 overlapping base paired regions that are constrained and difficult to untangle (stable and well suited for viral and bacterial RNA that need to persist in unfriendly environments).
-
+iii rna folding
+1 combinatorial expansion
+2 based on arc diagram: i < i' < j' < j or i' < i < j < j'
+3 sub-problems must be independent
+4 4 cases: 
+	1) i and j match; 
+	2) i unpaired, j paired in subsequence
+	3) j unpaired, i paired in subsequence
+	4) i paired in subsequence, j paired in subsequence
+S(i,j) = max{ 
+	S(i+1, j-1) + 1 if i, j in [(A,U), (G,C)]
+	S(i+1, j) if i unpaired
+ 	S(i, j-1) if j unpaired
+	max{
+		S(i, k) + S(k+1, j) 
+	} i < k < j
+}
